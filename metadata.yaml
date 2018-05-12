@@ -1,0 +1,41 @@
+_repo: Ueber-Goethes-Hermann-und-Dorothea_21349
+_version: 0.1.0
+alternative_title: Über Goethes Hermann und Dorothea
+contributor:
+  commentators:
+  - agent_name: Schiemann, Theodor
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '9874'
+    url: http://www.gutenberg.org/2009/agents/9874
+  - agent_name: Leitzmann, Albert
+    birthdate: 1867
+    deathdate: 1950
+    gutenberg_agent_id: '9873'
+    url: http://www.gutenberg.org/2009/agents/9873
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hehn, Victor
+    birthdate: 1813
+    deathdate: 1890
+    gutenberg_agent_id: '9872'
+    url: http://www.gutenberg.org/2009/agents/9872
+    wikipedia: http://de.wikipedia.org/wiki/Victor_Hehn
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2007-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21349'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832. Hermann und Dorothea'
+title: Ueber Goethes Hermann und Dorothea
+url: http://www.gutenberg.org/ebooks/21349

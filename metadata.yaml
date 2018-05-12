@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9872
     wikipedia: http://de.wikipedia.org/wiki/Victor_Hehn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21349#Ueber-Goethes-Hermann-und-Dorothea
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2007-05-07'
 gutenberg_type: Text
